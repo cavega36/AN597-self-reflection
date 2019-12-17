@@ -1,0 +1,114 @@
+---
+title: "VegaC_F19_SelfEvaluation"
+author: "C. Vega"
+date: "12/17/2019"
+output: html_document
+---
+<center>
+
+<font size="+2"><b> Rate Myself Challenge </b></font></center><br>
+
+<center>
+
+![](https://media.giphy.com/media/hqm1CUpaOPxeEG8gY1/giphy.gif)
+
+</center>
+
+***
+## Overall Impression
+
+***
+
+<center>
+
+I opened my data replication assignment and my "Rate Myself Challenge" with this gif because it not only encompasses the experience of presenting my finished work, but also my experience in the class as a whole as I gained new skills. I was able to explore the statistical side of journal articles that is usually subject to an undergrad not understanding the statistics so skipping over them entirely. Now that I have a firmer grasp on how to explore both analyses and the underlying principles behind them, I feel better equipped to continue on as a researcher. 
+
+</center>
+
+***
+
+## What was I asked to do?
+
+***
+
+  1. **Show up and speak up:** Attendance/ Participation
+  2. **Homework? You call that hard?:**  Here are the links to each homework repo:
+      * Homework 1: `cavega36/AN597-Week-2-cavega` folder
+      * Homework 2: `cavega36/AN597_Week_3_cavega` folder
+      * Homework 3: `cavega36/AN597_Zombies_cavega` folder
+      * Homework 4: `cavega36/AN597_Malfunction_cavega` folder
+      * Homework 5: `cavega36/AN597_Boots_cavega` folder
+  3. **Do it for the critique:** Peer Commentary for each homework
+  4. **I work well with others:** Group Module on a Statistical Method in R
+  5. **Check their work:** Data Replication Assignment
+ <br><br>
+
+***
+
+## What did I accomplish?
+
+***
+  1. **Show up and speak up:** I attended every class and engaged as best I could with the lectures. 
+  2. **Homework? You call that hard?:** I completed all original homeworks. Homework 3 (Zombies) has no final homework code because I never received a peer commentary. My peer commenter was excused by you and did contact me about it. The last two homeworks also do not have FinalHomeworkCode markdown files because I wasn't able to get much from my peer commenters and my own research in the days after each of those were submitted. 
+  3. **Do it for the critique:** I completed peer commentaries for all of my peer commenters.
+  4. **I work well with others:** I was able to contribute and help complete the group module.
+  5. **Check their work:** I was able to research, analyze, and complete an analysis of another's dataset.
+<br><br>
+  
+***
+
+## How well did you accomplish them?
+
+***
+  1. **Show up and speak up:** Often times, when I was understanding a concept really well, I asked more questions to clarify further and appreciate the thorough answers I received. 
+  2. **Homework? You call that hard?:** Originally, Homework 1 was very messy and had no actual syntax in it, this was fixed by the final version and got increasingly better throughout the homeworks. I found all of the homeworks extremely challenging. I would start them early and still feel behind as I got stuck on small things and could not figure out how to formulate my problem well enough for google to answer. However, they were immensely helpful in learning how to explore and find creative solutions. While some of my homeworks do not come up with full solutions, I did make an attempt on each aspect of every homework. I would say that for the amount of time I put in, and the amount that I learned as a result, I am okay with not always finding the answer.
+  3. **Do it for the critique:** I gave thoughtful critique for 1 or 2 people each homework assignment and gave the most helpful advice and bits of encouragement I could, despite often struggling with the homework.
+  4. **I work well with others:**  I most directly contributed to the morphometric analysis and the development of the Introduction, Conclusion, and HTML output. My group, myself included, was great at coordinating and getting things done in a timely manner.
+  5. **Check their work:** The data replication assignment was very challenging but ultimately one of the most rewarding aspects of the class. Not only was I able to synthesize the main information of a paper but was also able to use the entire toolkit from class to really understand best analyses, statistics, and overall output.
+ <br><br>
+
+***
+
+## How has my understanding of and approach to statistics and project design changed since taking this course?
+
+***
+
+Previous to this class, I was absolutely terrified of statistics. I had never taken it, had limited exposure to it, and feared that it was so out of my league that I should continue avoiding it altogether. Not only was I wrong, I also was severely limiting myself. Even the act of taking this class increased my confidence when working in R for my own research project this semester. I am now able to think more critically about future data collection and catch myself wondering how best I would visualize results of data in papers that I read. <br><br>
+
+***
+
+## What did I learn from all this?
+
+***
+
+ 1. How to actively seek out and string together lines of code until you are not getting an error code anymore.
+ 2. How important it is to take theory into account when running statistics. I had never considered what types of tests could and could not be run based on the sample, types of data, or output values.
+ 3. How to look at a research question in terms of what type of data can be collected rather than what type of answer would be ideal.
+ 4. Figures. So many figures. They can all be made to be beautiful.
+<br><br>
+
+***
+
+## How did the Peer Commentary process and Group Project relate, if at all, to what I view as my successes or difficulties in this course?
+
+***
+
+Working on this group module was a lot of fun. Nervousness for the actual presenting aside, we all brought our own research interests to the project and wanted to try as many new things as possible. I also enjoyed being able to dig into one package and really see what it can do. Close attention to detail was really important for this project and I feel as though my group did a great job communicating throughout. The peer commentary experience was frustrating, comforting, and helpful all at the same time. Frustrating in that I never felt like I understood enough to give feedback, comforting in that everyone was going through a similar process, and helpful because everyone genuinely wanted to help. I loved the willingness of everyone to try their best, especially when seeing the variety of stages in our studies all convening to learn this skill.
+<br><br>
+
+***
+
+## What, if anything, of lasting value do I take away from this experience? If nothing, what would I do differently if you were to start over in this course? 
+
+***
+The most lasting takeaway from this experience is absolutely collaboration. From my group pooling our research interests to figure out a topic to classmates using their own research to inform their individual and group projects, I loved the environment of shared learning. If I could do something differently, I would try playing around more with the datasets to really see all of the possibilities available for each. I would also reach out to my classmates more when I got stuck.
+<br><br>
+***
+
+## Taking this self-assessment into account (and with **A** being the highest), if you were the instructor, what grade would you give yourself given your evaluation of your own performance this semester? Please be honest.
+
+***
+
+<br><center>**A**</center><br>
+
+***
